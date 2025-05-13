@@ -1,3 +1,5 @@
+//It displays a form that collects user data (name, gender, country, age, and address) and includes a GridView for displaying tabular data (though not yet populated).
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35825.156
