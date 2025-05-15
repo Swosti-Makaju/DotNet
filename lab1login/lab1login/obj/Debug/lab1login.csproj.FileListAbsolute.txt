@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\lab1login\lab1login\bin\Debug\lab1login.exe.config
+C:\Users\Acer\source\repos\lab1login\lab1login\bin\Debug\lab1login.exe
+C:\Users\Acer\source\repos\lab1login\lab1login\bin\Debug\lab1login.pdb
+C:\Users\Acer\source\repos\lab1login\lab1login\obj\Debug\lab1login.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\lab1login\lab1login\obj\Debug\lab1login.DashboardForm.resources
+C:\Users\Acer\source\repos\lab1login\lab1login\obj\Debug\lab1login.Form1.resources
+C:\Users\Acer\source\repos\lab1login\lab1login\obj\Debug\lab1login.Properties.Resources.resources
+C:\Users\Acer\source\repos\lab1login\lab1login\obj\Debug\lab1login.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\lab1login\lab1login\obj\Debug\lab1login.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\lab1login\lab1login\obj\Debug\lab1login.exe
+C:\Users\Acer\source\repos\lab1login\lab1login\obj\Debug\lab1login.pdb
