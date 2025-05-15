@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\lab2MDI\lab2MDI\bin\Debug\lab2MDI.exe.config
+C:\Users\Acer\source\repos\lab2MDI\lab2MDI\bin\Debug\lab2MDI.exe
+C:\Users\Acer\source\repos\lab2MDI\lab2MDI\bin\Debug\lab2MDI.pdb
+C:\Users\Acer\source\repos\lab2MDI\lab2MDI\obj\Debug\lab2MDI.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\lab2MDI\lab2MDI\obj\Debug\lab2MDI.Form1.resources
+C:\Users\Acer\source\repos\lab2MDI\lab2MDI\obj\Debug\lab2MDI.Properties.Resources.resources
+C:\Users\Acer\source\repos\lab2MDI\lab2MDI\obj\Debug\lab2MDI.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\lab2MDI\lab2MDI\obj\Debug\lab2MDI.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\lab2MDI\lab2MDI\obj\Debug\lab2MDI.exe
+C:\Users\Acer\source\repos\lab2MDI\lab2MDI\obj\Debug\lab2MDI.pdb
