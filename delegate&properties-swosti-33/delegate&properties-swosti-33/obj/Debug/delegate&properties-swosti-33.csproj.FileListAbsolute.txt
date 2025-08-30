@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\delegate&properties-swosti-33\delegate&properties-swosti-33\bin\Debug\delegate&properties-swosti-33.exe.config
+C:\Users\Acer\source\repos\delegate&properties-swosti-33\delegate&properties-swosti-33\bin\Debug\delegate&properties-swosti-33.exe
+C:\Users\Acer\source\repos\delegate&properties-swosti-33\delegate&properties-swosti-33\bin\Debug\delegate&properties-swosti-33.pdb
+C:\Users\Acer\source\repos\delegate&properties-swosti-33\delegate&properties-swosti-33\obj\Debug\delegate&properties-swosti-33.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\delegate&properties-swosti-33\delegate&properties-swosti-33\obj\Debug\delegate&properties-swosti-33.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\delegate&properties-swosti-33\delegate&properties-swosti-33\obj\Debug\delegate&properties-swosti-33.exe
+C:\Users\Acer\source\repos\delegate&properties-swosti-33\delegate&properties-swosti-33\obj\Debug\delegate&properties-swosti-33.pdb
