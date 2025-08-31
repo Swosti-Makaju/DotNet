@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "overload-unary-swosti-33", "overload-unary-swosti-33\overload-unary-swosti-33.csproj", "{FE77EC15-E8BA-4891-ABD7-EBE5DDB6FE9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE77EC15-E8BA-4891-ABD7-EBE5DDB6FE9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE77EC15-E8BA-4891-ABD7-EBE5DDB6FE9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE77EC15-E8BA-4891-ABD7-EBE5DDB6FE9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE77EC15-E8BA-4891-ABD7-EBE5DDB6FE9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB01909D-782E-4757-B26C-6A3DF4BD3779}
+	EndGlobalSection
+EndGlobal
