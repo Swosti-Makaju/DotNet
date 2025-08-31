@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jaggedarrary-swosti-33", "lab8\jaggedarrary-swosti-33.csproj", "{A1FFFADF-BBE0-4D60-9A0C-E698D2AFDA02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1FFFADF-BBE0-4D60-9A0C-E698D2AFDA02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1FFFADF-BBE0-4D60-9A0C-E698D2AFDA02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1FFFADF-BBE0-4D60-9A0C-E698D2AFDA02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1FFFADF-BBE0-4D60-9A0C-E698D2AFDA02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04F36CCB-A6FB-4C89-9EF7-6A95EC9B8B5D}
+	EndGlobalSection
+EndGlobal
