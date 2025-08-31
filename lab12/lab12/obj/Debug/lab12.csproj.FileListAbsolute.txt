@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\lab12\lab12\bin\Debug\lab12.exe.config
+C:\Users\Acer\source\repos\lab12\lab12\bin\Debug\lab12.exe
+C:\Users\Acer\source\repos\lab12\lab12\bin\Debug\lab12.pdb
+C:\Users\Acer\source\repos\lab12\lab12\obj\Debug\lab12.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\lab12\lab12\obj\Debug\lab12.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\lab12\lab12\obj\Debug\lab12.exe
+C:\Users\Acer\source\repos\lab12\lab12\obj\Debug\lab12.pdb

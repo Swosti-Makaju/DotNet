@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\lab20-swosti-33\lab20-swosti-33\bin\Debug\lab20-swosti-33.exe.config
+C:\Users\Acer\source\repos\lab20-swosti-33\lab20-swosti-33\bin\Debug\lab20-swosti-33.exe
+C:\Users\Acer\source\repos\lab20-swosti-33\lab20-swosti-33\bin\Debug\lab20-swosti-33.pdb
+C:\Users\Acer\source\repos\lab20-swosti-33\lab20-swosti-33\obj\Debug\lab20-swosti-33.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\lab20-swosti-33\lab20-swosti-33\obj\Debug\lab20-swosti-33.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\lab20-swosti-33\lab20-swosti-33\obj\Debug\lab20-swosti-33.exe
+C:\Users\Acer\source\repos\lab20-swosti-33\lab20-swosti-33\obj\Debug\lab20-swosti-33.pdb

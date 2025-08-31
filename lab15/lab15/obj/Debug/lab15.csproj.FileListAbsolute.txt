@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\lab15\lab15\bin\Debug\lab15.exe.config
+C:\Users\Acer\source\repos\lab15\lab15\bin\Debug\lab15.exe
+C:\Users\Acer\source\repos\lab15\lab15\bin\Debug\lab15.pdb
+C:\Users\Acer\source\repos\lab15\lab15\obj\Debug\lab15.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\lab15\lab15\obj\Debug\lab15.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\lab15\lab15\obj\Debug\lab15.exe
+C:\Users\Acer\source\repos\lab15\lab15\obj\Debug\lab15.pdb
